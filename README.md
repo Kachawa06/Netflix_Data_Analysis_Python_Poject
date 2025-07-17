@@ -53,7 +53,7 @@ Charts and graphs reveal trends such as:
 ## 🚀 How to Run
 
 1. Clone this repo:  
-   `git clone https://github.com/<your-username>/netflix-analytics.git`
+   `https://github.com/Kachawa06/Netflix_Data_Analysis_Python_Poject.git`
 2. Open Jupyter Notebook
 3. Run `Netflix_Analysis.ipynb`
 4. Explore the visualizations and insights
